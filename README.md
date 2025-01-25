@@ -1,4 +1,4 @@
 # 5BInformatica
-Gpoi 5B - Salvemini <br>
-Questo file html contiene il messaggio <br>
+<h1>Gpoi 5B - Salvemini </h1>
+<p>Questo file html contiene il messaggio </p>
 CIAO 5B
